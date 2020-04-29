@@ -1,3 +1,4 @@
+# [BGLUGwatch binaries are suspended](https://thetechrobo.github.io/kickStartSite/2020/04/28/DiscontinueBGLUGwatchBinaries/)
 # bglugwatch-binaries
 Frozen binaries for BGLUGwatch
 
